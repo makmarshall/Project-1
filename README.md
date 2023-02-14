@@ -1,4 +1,4 @@
-# Project-1
+# Project-1-College-Recruitment-Improvement-Study
 
 ### Link to the [google sheets file I used](https://docs.google.com/spreadsheets/d/13Pp2q7fMPlMMj_Y_6Gxn4Jo5MDxQDZwxZbXnqTdVmKM/edit?usp=sharing)
 
