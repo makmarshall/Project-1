@@ -37,5 +37,23 @@ For Hispanic or Latino Women or those who prefer not to say their gender: Every 
 
 Also none of them had gone to any of these events: Women Who Dare, CyberSecurity Information Protection Program Participation, Corporate Training, Teen Arts Festival, or the Summer Camp at CCM.
 
-### Two Questions from my Previously Submitted:
+## Two Questions from my Previously Submitted:
 
+### Which way of receiving information was the least noted? (Where should we focus on upping our advertisements?)
+
+The least reported ways of receiving information about CCM was via: (In order of least reported to most)
+1. The radio (One report)
+2. In-App Advertisement (Three reports)
+3. Employer, or Television (Both with Five reports)
+
+### Which were the most attended events specifically by women of color?
+
+The most attended events for women of color were:
+1. HS Sharetime Information Session (10 attended)
+2. Open House, On-Campus Information Session, and Information Session at my high school (each had 9 WOC attendees)
+3. Titans Tuesday (Virtual) Information Session, and Campus Visit (individual) (each had 8 WOC attendees)
+
+## Two Insights:
+
+1. The most reported ways of people hearing about CCM was via a family member or friend, or from a highschool teacher or counselor. The most common way to spread information about CCM may be simply through word of mouth.
+2. Lots of people specifically chose CCM for it's affordability, speaking on that would be helpful.
